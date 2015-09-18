@@ -1,0 +1,15 @@
+14dda3e45e9b76f6ae6742b740351982 *DESCRIPTION
+c023f3123687685a12f5277ae7959650 *LICENSE
+4c951c62c32e4ae377a122422fb7d360 *NAMESPACE
+f7c518d8ce08f8bf11abc21485915bb9 *R/available.versions.R
+480e58b474007c8ee0fcfebff3388638 *R/install.dates.R
+16b6b78af65077441ca59a71f4ebaf57 *R/install.versions.R
+e8a78d7c681a8fa4b264ae080e3dd673 *R/installed.versions.R
+ac03ebba92f1c9f09cfd61cf874d6491 *R/utilities.R
+d20f8c5901d8240aa49327b0c46d89f3 *R/versions-package.R
+02c799cf6689fdacc63373f05b3a5e4e *README.md
+f601576a9236b8c009eafaee38704fb3 *man/available.versions.Rd
+1a7eb0b2350bc28eee85eeaaee80fe86 *man/install.dates.Rd
+c037e5d2204b602762f545b197b74081 *man/install.versions.Rd
+7661b6270b0718e82fded56e24892c03 *man/installed.versions.Rd
+f506f40bfdf272b2b436d34660877cdc *man/versions-package.Rd
