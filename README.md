@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/goldingn/versions.svg?branch=master)](https://travis-ci.org/goldingn/versions)
 [![cran version](http://www.r-pkg.org/badges/version/versions)](http://cran.rstudio.com/web/packages/versions)
+[![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/versions)](http://www.r-pkg.org/pkg/versions)
 
 # versions
 
@@ -65,14 +66,17 @@ install.dates('checkpoint', '2015-01-01')
 
 #### installation
 
-Currently the package can be installed with devtools.
+The package is on CRAN so you can install it with:
+
+```r
+install.packages('versions')
+```
+
+You can also install straight from GitHub using `devtools`:
 
 ```r
 devtools::install_github('goldingn/versions')
 ```
-
-Hopefully it'll be on CRAN soon too.
-
 
 #### why?
 
