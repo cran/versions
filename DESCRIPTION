@@ -1,8 +1,8 @@
 Package: versions
 Type: Package
 Title: Query and Install Specific Versions of Packages on CRAN
-Version: 0.2
-Date: 2016-02-17
+Version: 0.3
+Date: 2016-09-01
 Author: Nick Golding
 Maintainer: Nick Golding <nick.golding.research@gmail.com>
 Description: Installs specified versions of R packages hosted on CRAN and
@@ -19,11 +19,12 @@ Description: Installs specified versions of R packages hosted on CRAN and
     in use in a directory and install all of those packages for a given date.
     'checkpoint' doesn't provide install.packages-like functionality however, and
     that's what 'versions' aims to do, by querying MRAN. As MRAN only goes back to
-    2014-09-17, 'versions' can't install packages from before this date.
+    2014-09-17, 'versions' can't install packages archived before this date.
 License: BSD_3_clause + file LICENSE
 LazyData: TRUE
+BugReports: https://github.com/goldingn/versions/issues
 RoxygenNote: 5.0.1
 NeedsCompilation: no
-Packaged: 2016-02-17 00:59:02 UTC; nick
+Packaged: 2016-09-01 06:16:24 UTC; nick
 Repository: CRAN
-Date/Publication: 2016-02-17 09:00:49
+Date/Publication: 2016-09-01 08:41:51
